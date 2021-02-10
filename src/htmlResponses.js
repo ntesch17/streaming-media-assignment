@@ -25,7 +25,7 @@ const getIndex = (request, response) => {
 };
 
 module.exports = {
-    getIndex,
-    getIndex2,
-    getIndex3
-}
+  getIndex,
+  getIndex2,
+  getIndex3,
+};

@@ -15,7 +15,7 @@ const onRequest = (request, response) => {
       mediaHandler.getParty(request, response);
       break;
     case '/page2':
-        htmlHandler.getIndex2(request, response);
+      htmlHandler.getIndex2(request, response);
       break;
     case '/bling.mp3':
       mediaHandler.getBling(request, response);
